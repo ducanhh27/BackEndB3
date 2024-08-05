@@ -1,0 +1,14 @@
+[
+ {
+  "name": "PhongUong",
+  "des": "uongnuoc",
+  "directorId": "2",
+  "departmentId": "2"
+ },
+ {
+  "name": "PhongHop",
+  "des": "hop",
+  "directorId": "2",
+  "departmentId": "3"
+ }
+]

@@ -1,0 +1,20 @@
+[
+ {
+  "employeeID": "1",
+  "name": "DUCAnh",
+  "age": "30",
+  "departmentId": "2",
+  "phone": "2000",
+  "email": "MAnh@mgmail.com",
+  "salary": "1000"
+ },
+ {
+  "employeeID": "3",
+  "name": "MANh",
+  "age": "30",
+  "departmentId": "2",
+  "phone": "2000",
+  "email": "MAnh@mgmail.com",
+  "salary": "1000"
+ }
+]

@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "chrome",
+            "name": "http://directorId",
+            "request": "launch",
+            "url": "http://directorId"
+        }
+    ]
+}
